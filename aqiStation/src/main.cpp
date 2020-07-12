@@ -7,8 +7,8 @@
 #include <SSD1306Wire.h>
 #include <font.h>
 
-#define SSID "XHome_2.4GHz"
-#define PW "http2010"
+#define SSID "SSID GOES HERE"
+#define PW "PASSWORD GOES HERE"
 #define avURL "http://api.airvisual.com/v2/nearest_city?key=a0b13731-7fe0-4fe4-aaa5-88abd8cb2dbc"
 #define timeURL "http://worldtimeapi.org/api/ip"
 
