@@ -246,6 +246,7 @@ void loop()
     timerFlag = 1;
   }
 
+
   // timer();
   display.display();
   delay(50);
